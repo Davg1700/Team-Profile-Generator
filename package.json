@@ -1,0 +1,30 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib",
+      "_tests_": "_tests_"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Davg1700/Team-Profile-Generator"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Davg1700/Team-Profile-Generator:issues"
+    },
+    "homepage": "https://github.com/Davg1700/Team-Profile-Generator#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.0.1"
+    }
+  }
